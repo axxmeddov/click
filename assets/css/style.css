@@ -1,0 +1,114 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.d-n{
+    display: none;
+}
+
+.active{
+    display: block;
+}
+
+.d-f{
+    display: flex;
+}
+
+.sidebar{
+    width: 400px;
+    height: 625px;
+}
+
+.img-div{
+    padding: 40px;
+}
+
+input{
+    width: 300px;
+    height: 40px;
+    border-style: none;
+    border-bottom: 2px solid grey;
+    font-size: 100%;
+    margin-left: 40px;
+}
+
+.mag-div{
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+
+
+.mag-div1{
+    width: 300px;
+    height: 70px;
+    border-bottom: 2px solid grey;
+}
+
+.mag-span{
+    font-weight: 900;
+    font-size: 130%;
+    font-family: sans-serif;
+    
+}
+
+.mag-li{
+    list-style: none;
+    font-size: 90%;
+    font-family: cursive;
+    font-weight: 600;
+    padding: 5px;
+}
+
+.icon{
+    width: 20px;
+    height: 20px;
+    margin-left: 165px;
+    margin-top: 7px;
+}
+
+.i-m{
+    margin-left: 178px;
+}
+.i-m1{
+    margin-left: 133px;
+}
+.mag-div2{
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+.mag-div3{
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+.yum{
+    width: 40px;
+    height: 40px;
+    background-color:rgb(52, 48, 135);
+    margin: 25px;
+    border-radius: 50px;
+    margin-left: 150px;
+}
+
+.orta{
+    margin-top: 150px;
+    transition: 0.5s ease-in;
+}
+
+
+.reqem{
+    font-size: 120%;
+    font-family: sans-serif;
+    font-weight: 700;
+    padding-left: 15px;
+    padding-top: 20%;
+    color: white;
+}
+
+.orta:hover{
+    color: aqua;
+}
